@@ -1,0 +1,54 @@
+KEYBOARD shortcuts - BLEDNER :
+
+1. move object (object mode) G+(Y,X,Z)+(5)
+2. ctrl + R (edit mode) - loop cut - (1. click is to choose the position, 2. click set in place)
+3. G + Z + (1/-1) (modify object on Z.1 coordinate)
+4. shift + 8 + A - add new object (only in object mode)
+5. select object and press p (edit mode) - LOOSE PARTS (then in object mode we can seperate these objects)
+6. tab - EDIT mode -> OBJECT mode (switch between previous modes)
+7. ALT + g - come back to position (location: 0,0,0) vector !!
+8. shift + D - duplicate objects
+9. 1,2,3 (edit mode) - select mode 
+10. E (edit mode) + (1.5) - extrude object
+11. G + kółko - ustawienie obiektu w wymiarze
+12. ctrl + select (object mode) - unselect 
+13. select box + M - move to collection
+14. F2 - change name of a collection and objects
+15. select object + Numpad . - Frame Selected -> zoom to an object
+16. there is difference between E + S + E + G (G modify different object) and S + E + G (G modify same object)
+17. E + S = I - scale new extruded object
+18. alt + left click (edit mode -> face mode (3)) - zaznacz wszystkie faces
+19. S + shift + Z - scale between exery axes except Z !!!
+23. properties modifiers (object mode) - add modifiers to your shape object (example: decimate -> add shape less/more faces)
+24. show overlays (edit mode ) -> show statistics
+25. snap button + face project + center ((object mode) - snap object to the other object
+26. Options -> Affect only origins (object mode) / G + Z (edit mode) - doing the same  
+27. Scale objects by indyvidual origins (object mode) Snap + Transform pivot point -> Indyvidual origins
+28. alt + D - duplicate objects linked (object mode) 
+29. ctrl + L - link object data (object mode)
+30. Object -> Relations -> Make Single User -> Object & Data (object mode)(to revert link object data)
+31. reminder ! shift + left click - deselect object 
+32. ctrl + R + middle mouse wheel - loop cuts (edit mode)
+33. alt + left click mouse (edit mode) - face mode , selects all faces (variation: alt + left click mouse + shift)
+34. render properties (edit mode) -> bloom check box - will emit light 
+35. alt + left click mouse + ctrl + `+` numpad (edit mode) - grow selects of faces 
+36. home button on keyboard (object mode) - scene -> world - center frame all
+37. ctrl + alt + numpad_0 - camera view
+38. N - Item transform -> View -> Camera To View (position your view) then turn off Camera View and you will have permamently set this postion view
+
+
+SHADING: 
+32. Render properties (shader mode) 
+33. example : crate Slot 2 for object -> select faces for the object (edit mode) -> select Slot 2 and select assign button
+
+
+SCULPTING
+20. F (sculpt draw mode) - change size of a brush 
+21. Dyntopo - option sculpting ( add more faces to object)
+22. Grab brush (extract , instead of draw new faces to object)
+
+LAYOUT
+25. proportional editing (edit mode) - reshape on edges 
+
+
+example themes : Poly haven 
