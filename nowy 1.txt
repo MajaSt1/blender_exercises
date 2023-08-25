@@ -1,5 +1,7 @@
 KEYBOARD shortcuts - BLEDNER :
 
+numpad : 1 - front view
+
 1. move object (object mode) G+(Y,X,Z)+(5)
 2. ctrl + R (edit mode) - loop cut - (1. click is to choose the position, 2. click set in place)
 3. G + Z + (1/-1) (modify object on Z.1 coordinate)
@@ -35,7 +37,7 @@ KEYBOARD shortcuts - BLEDNER :
 36. home button on keyboard (object mode) - scene -> world - center frame all
 37. ctrl + alt + numpad_0 - camera view
 38. N - Item transform -> View -> Camera To View (position your view) then turn off Camera View and you will have permamently set this postion view
-
+39. shift + right click - leave a coursor (point to add something)
 
 SHADING: 
 32. Render properties (shader mode) 
