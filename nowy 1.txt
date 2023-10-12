@@ -18,7 +18,7 @@ numpad : 1 - front view
 14. F2 - change name of a collection and objects
 15. select object + Numpad . - Frame Selected -> zoom to an object
 16. there is difference between E + S + E + G (G modify different object) and S + E + G (G modify same object)
-17. E + S = I - scale new extruded object
+17. E + S - scale new extruded object !!!!!!!!
 18. alt + left click (edit mode -> face mode (3)) - zaznacz wszystkie faces
 19. S + shift + Z - scale between exery axes except Z !!!
 23. properties modifiers (object mode) - add modifiers to your shape object (example: decimate -> add shape less/more faces)
@@ -38,6 +38,60 @@ numpad : 1 - front view
 37. ctrl + alt + numpad_0 - camera view
 38. N - Item transform -> View -> Camera To View (position your view) then turn off Camera View and you will have permamently set this postion view
 39. shift + right click - leave a coursor (point to add something)
+40. S + shift + Z - scale with X and Y (without Z axis)
+41. ctrl + B - bevel
+42. I - insert 
+43. A - select whole object faces (edit mode)
+44.!!!! M (by distance) - merge vertices together by distance(edit mode) there is also automatic merger (on top right) which automatically merge vertex on top of each other
+45. G + G - Egde Slide (after loop cut, you can merge distance between cuts) (edit mode)
+46. shift + left click (object mode) - move with small distance
+47. I + I (edit mode)- insert faces indyvidual
+48. T - hide toolbar to the left 
+49. alt + E - extrude along normals (edit mode)
+50 click + shift + ctrl - it will select also edges between
+51. ctrl + B + V - bevel into vertices (cut the edges) (edit mode)
+52. J + (select vertex) - (edit mode) join edge - add edge
+53. modifiers properties -> Add modifier -> mirror
+54. Move origin center (object mode) Options -> Affect Only origins -> G + Z - only affecting the object origin 
+55. !!! Extrude + S + shift + Z (scale but not in the Z axis) - extrude your shape to create ledges
+56. alt + left - click select edge loop
+57. M (object mode) - new collection
+58. ctrl + A (object mode) - reset scale to default (scale X,Y,Z axis = 1)
+59. K - knife when loop cut doesnt work (edit mode)
+60. to change mode from toolbar select LMB and hold 
+61. ctrl + L - link materials 
+61. render properties - ambient Occlusion + Screen Space Reflection
+62. H - (object mode) hide
+63. Mesh -> distortion = randomize
+64. Mirror modifier - clipping - to not overlap together
+65. Disolve edge 
+66. disable modifier before clipping together objects (join by ctrl + J) (object mode)
+67. R + Z + 90
+68. ctrl + A (object mode) + rotation - apply rotation when mirror not fold up
+69. THERE is a difference between shift + alt + left click and shift + left click WHEN bevel !!!
+70. scale into indyvidual origins (not to one origin) - scale + indyvidual origins
+
+SELECTION OPTIONS: 
+71. L (edit mode) - select only the joined objects - select linked
+72. ctrl + I (edit mode) - select invert 
+73. H (edit mode) - hide
+74. / (edit mode) - isolate object , local view
+75. ctrl + num. +/- (edit mode) - select more/less
+76. alt + H (edit mode) - unhide objects
+
+77. shift + R (object mode) - repeat last action
+78. shift + S (object mode) -> coursor back to world origin
+79. reminder: shift + D (create duplicate) , alt + D (create linked duplicate)
+80. transform pivot point -> Median point center (while transform)
+81. reminder: remember while scale press shift + Z - to not change object thickness
+82. shift + select (object mode) - object become active one ( when join ctrl+J - last should be the active one )
+83. L + point object with the mouse - (edit mode) select linked (select all linked object)
+84. alt + left click - (edit mode) select neighbour objects 
+85. remember to toggle X - Ray (edit mode)
+86. proportional editing !!! - O (edit mode)
+87. when you want to join objects (ctrl + J) and want to origin be the last object then it must be last selecteed before join
+88. L - (edit mode) select joined object
+89. Object -> relations -> make single user (to unjoin)
 
 SHADING: 
 32. Render properties (shader mode) 
@@ -54,3 +108,6 @@ LAYOUT
 
 
 example themes : Poly haven 
+
+
+basics torch top -> 1) E + S. 2) G (z axis). 3) E. 4) S. 5) E + S. 6) E (z axis)
