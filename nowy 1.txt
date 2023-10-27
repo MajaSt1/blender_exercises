@@ -92,6 +92,21 @@ SELECTION OPTIONS:
 87. when you want to join objects (ctrl + J) and want to origin be the last object then it must be last selecteed before join
 88. L - (edit mode) select joined object
 89. Object -> relations -> make single user (to unjoin)
+90. alt + R/G - remove any rotation/grab
+91. shift + S -> world origin -> transform pivot point 3D -> scaling in 3D world origin !!!
+92. image properties - opacity - to see axis (object mode)
+93. side bar -> filter -> selectable - cannot move objects 
+94. object -> ctrl+A -> apply Rotation (reset rotation) to see: N 
+96. scaling in the wrong position - 3D cursor to median point
+97. cuts : loop cut (ctrl + R) , knife cut (K) (edit mode)
+98. clean up -> remove any inside faces + merge (M by distance -> faces)
+99. T -get rid of toolbar
+100. PROPORTIONAL EDIITING!
+101. G + G (edit mode) - move with object direction (Important !!!!)
+102. scale in indyvidual origin S + options
+103. I - to create more axis and operating on more polies (to move) its helpful when creating eye for instance
+104. I (insert) + B (bounderies) - will exclude the bounderies from insert (mirror's edge inward)
+105. alt + S - scale along the normals (inward) - hint: remember to disable automerge vertices
 
 SHADING: 
 32. Render properties (shader mode) 
